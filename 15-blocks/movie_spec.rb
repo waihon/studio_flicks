@@ -2,7 +2,7 @@
 # Pragmatic Studio Ruby Programming
 # 15 - Blocks
 # This version has the following changes:
-# Add a new example "is sorted by decreasing rank"
+# 1. Add a new example "is sorted by decreasing rank"
 #####
 require_relative 'movie'
 

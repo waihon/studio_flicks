@@ -2,8 +2,8 @@
 # Pragmatic Studio Ruby Programming
 # 15 - Modules
 # This version has the following changes:
-# 1. Change play method to play(viewings)
-# 2. Add print_stats method
+# 1. Change play method to have a viewings parameter.
+# 2. Add a new print_stats method
 #####
 require_relative 'movie'
 require_relative 'waldorf_and_statler'

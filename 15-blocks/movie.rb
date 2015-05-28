@@ -2,7 +2,7 @@
 # Pragmatic Studio Ruby Programming
 # 15 - Blocks
 # This version has the following changes:
-# 1. Override <=> for sorting movie by rank in descending order
+# 1. Override <=> for sorting movieies by rank in descending order
 #####
 class Movie
   attr_accessor :title

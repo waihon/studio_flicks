@@ -2,8 +2,8 @@
 # Pragmatic Studio Ruby Programming
 # 15 - Blocks
 # This version has the following changes
-# 1. Pass in viewings as an argument to "play"
-# 2. Modify expected results due pto play ist being played multiple times.
+# 1. Call play method by passing in number of viewings as an argument.
+# 2. Modify expected results due to playlist is being played multiple times.
 #####
 require_relative 'playlist'
 require_relative 'movie'
