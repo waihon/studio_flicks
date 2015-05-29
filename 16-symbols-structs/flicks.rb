@@ -1,6 +1,6 @@
 #####
 # Pragmatic Studio Ruby Programming
-# 15 - Symbols and Structs
+# 16 - Symbols and Structs
 # This version has no changes.
 #####
 require_relative 'movie'
